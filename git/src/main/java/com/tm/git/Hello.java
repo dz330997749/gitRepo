@@ -20,4 +20,8 @@ public class Hello {
     public void add() {
         System.out.println("---------");
     }
+
+    public void delete() {
+        System.out.println("删除...");
+    }
 }
