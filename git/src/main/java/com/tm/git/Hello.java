@@ -16,4 +16,8 @@ public class Hello {
         System.out.println("1111111111111111");
         System.out.println("1111111111111111");
     }
+
+    public void add() {
+        System.out.println("---------");
+    }
 }
